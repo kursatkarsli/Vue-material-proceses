@@ -1,3 +1,2 @@
-# Component Yapısı Oluşturma
-
+## VUE ÜRÜN İŞLEMLERİ SİSTEMİ
 <!-- App Vue  -->
